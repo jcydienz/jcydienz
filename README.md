@@ -19,7 +19,3 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=lua,js,ts,html,css,react,nextjs,nodejs,tailwind,git,github" />
 </p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake.svg" alt="snake" />
-</p>
