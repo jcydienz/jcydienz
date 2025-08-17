@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Jayden</h1>
+<h3 align="center">Full Stack Web Developer</h3>
 
-<!--
-**jcydienz/jcydienz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="200">
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- I’m currently working on developing my own library for Roblox-TS
+- Portfolio: [Portfolio Link](https://vscjay.co.uk)
+
+---
+
+## Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=lua,js,ts,html,css,react,nextjs,nodejs,tailwind,git,github" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake.svg" alt="snake" />
+</p>
