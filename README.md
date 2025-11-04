@@ -10,7 +10,6 @@
 ## About Me
 
 - I’m currently working on developing my own library for Roblox-TS
-- Portfolio: [Portfolio Link](https://vscjay.co.uk)
 
 ---
 
