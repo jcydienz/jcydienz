@@ -7,7 +7,7 @@
 - I've moved to four different countries in my lifetime, and have visited 15 countries looking to expand that soon. I currently reside in the United Kingdom
 - I can speak English & Polish.
 
-#Portfolio
+# Portfolio
 Portfolio is currently a work in progress, looking to release it on a site come March.
 
 ---
